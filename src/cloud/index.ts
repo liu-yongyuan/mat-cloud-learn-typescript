@@ -1,0 +1,1 @@
+import '@/cloud/2-typescript类型/index'
