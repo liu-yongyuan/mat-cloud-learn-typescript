@@ -1,1 +1,2 @@
-import '@/cloud/2-typescript类型/index'
+import "@/cloud/2-类型";
+import "@/cloud/3-断言";
