@@ -3,4 +3,5 @@
 // import "@/cloud/4-类型守卫";
 // import '@/cloud/5-联合类型和类型别名'
 // import "@/cloud/6-交叉类型";
-import '@/cloud/7-typescript函数'
+// import '@/cloud/7-typescript函数'
+import '@/cloud/8-数组'
