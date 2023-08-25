@@ -5,4 +5,5 @@
 // import "@/cloud/6-交叉类型";
 // import '@/cloud/7-typescript函数'
 // import '@/cloud/8-数组'
-import '@/cloud/9-对象'
+// import '@/cloud/9-对象'
+import "@/cloud/10-接口";
