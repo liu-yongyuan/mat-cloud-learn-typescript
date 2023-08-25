@@ -7,4 +7,5 @@
 // import '@/cloud/8-数组'
 // import '@/cloud/9-对象'
 // import "@/cloud/10-接口";
-import '@/cloud/11-类'
+// import '@/cloud/11-类'
+import '@/cloud/12-泛型'
